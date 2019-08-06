@@ -34,3 +34,4 @@ firstName.onchange = function(){        // us the onchange method, evenrtime you
 };
 
 };
+console.log("REgistration App")
